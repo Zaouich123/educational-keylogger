@@ -1,4 +1,4 @@
-# educational-keylogger
+# Educational keylogger
 
 ⚠️ **DISCLAIMER**
 
